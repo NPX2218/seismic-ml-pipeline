@@ -1,0 +1,7 @@
+# pyproject.toml
+
+[tool.mypy]
+ignore_missing_imports = true
+
+[tool.pylint.basic]
+const-naming-style = "UPPER_CASE"
