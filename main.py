@@ -19,6 +19,7 @@ from typing import Any, cast
 import numpy as np
 from numpy.typing import NDArray
 from src.loader.loader import load_file
+from src.preprocessing.windows import window_generator, count_windows
 
 from src.helpers.helper import print_divider
 
@@ -137,6 +138,30 @@ def main() -> None:
         print(f"Gaps: {len(gaps)} (will skip windows containing these)")
         print()
 
+    ############### STEP 2: Window Calculation ###############
+
+    print("=" * 60)
+    print("STEP 2: Window calculation")
+    print("=" * 60)
+
+    n_windows: int = count_windows(n_samples, TD, DELTA_T, sampling_rate)
+
+    print(f"Window duration: {TD} hours")
+    print(f"Step size: {DELTA_T} hours")
+    print(f"Number of windows: {n_windows}")
+
+    if n_windows == 0:
+        print()
+        print("ERROR: Not enough data for even one window!")
+        print(f"Data duration: {duration_hours:.2f} hours")
+        print(f"Window size: {TD} hours")
+        print(f"Need at least {TD} hours of data.")
+        return
+
+    # channels × bands × (centroid, spread)
+    n_features: int = n_channels * 3 * 2
+    print(f"Features per window: {n_features}")
+    print()
 
 if __name__ == "__main__":
     main()
