@@ -1,0 +1,8 @@
+{
+  "catalog_file": "data/catalogs/catalog_AMKA_20180814.csv",
+  "lookahead_hours": 6.0,
+  "min_magnitude": 3.0,
+  "earthquakes_in_range": 7,
+  "positive_windows": 24,
+  "negative_windows": 33
+}

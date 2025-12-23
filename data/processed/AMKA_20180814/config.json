@@ -1,0 +1,14 @@
+{
+  "input_file": "data/raw/example.mseed",
+  "station": "AMKA",
+  "data_start_time": "2018-08-14T15:57:22.940000Z",
+  "sampling_rate": 50,
+  "n_channels": 3,
+  "duration_hours": 32.0,
+  "window_duration_hours": 2.0,
+  "step_size_hours": 0.5,
+  "n_bins": 100,
+  "n_windows": 57,
+  "n_features": 18,
+  "created": "20251223_164321"
+}

@@ -1,5 +1,5 @@
 """
-windows.py — Create sliding windows from continuous data
+windows.py: Create sliding windows from continuous data
 
 What this does:
     Takes long signal into overlapping chunks one at a time
@@ -14,6 +14,7 @@ Parameters:
 from typing import Generator, List, Tuple, Optional
 from dataclasses import dataclass
 import numpy as np
+
 
 @dataclass
 class Window:
@@ -46,6 +47,7 @@ def _window_overlaps_gap(window_start_sec: float,
             return True
     return False
 
+
 def count_windows(n_samples: int,
                   td: float,
                   delta_t: float,
@@ -53,14 +55,14 @@ def count_windows(n_samples: int,
                   gaps: Optional[List[Tuple[float, float]]] = None) -> int:
     """
     Calculate how many valid windows (w/o gaps) will be created.
-    
+
     Args:
         n_samples: Total samples in signal
         td: Window duration in hours
         delta_t: Step size in hours
         sampling_rate: Samples per second (Hz)
         gaps: Optional list of (start_sec, end_sec) gap tuples
-        
+
     Returns:
         Number of valid windows (excluding those overlapping gaps)
     """
@@ -92,6 +94,7 @@ def count_windows(n_samples: int,
 
     return valid_count
 
+
 def window_generator(data: np.ndarray,
                      td: float,
                      delta_t: float,
@@ -117,7 +120,7 @@ def window_generator(data: np.ndarray,
     if data.ndim == 1:
         data = data.reshape(1, -1)
 
-    n_channels, n_samples = data.shape
+    _, n_samples = data.shape
 
     if gaps is None:
         gaps = []
@@ -161,4 +164,5 @@ def window_generator(data: np.ndarray,
         position_index += 1
 
     if verbose and skipped_count > 0:
-        print(f"\nWindow generation complete: {window_index} valid, {skipped_count} skipped gaps")
+        print(
+            f"\nWindow generation complete: {window_index} valid, {skipped_count} skipped gaps")

@@ -26,7 +26,7 @@ def merge_traces(st: Stream, verbose: bool = True) -> tuple[Stream, list[tuple[f
     if verbose:
         print(f"Before merge: {len(st)} traces")
 
-    # Track gap locations (we'll need this later)
+    # Track gap locations
     gaps: list[tuple[float, float]] = []
 
     # Find the earliest start time (reference point)
@@ -40,14 +40,14 @@ def merge_traces(st: Stream, verbose: bool = True) -> tuple[Stream, list[tuple[f
 
     if verbose:
         print(
-            f"  Found {len(channel_groups)} unique channels: {list(channel_groups.keys())}")
+            f"Found {len(channel_groups)} unique channels: {list(channel_groups.keys())}")
 
     for channel_id, traces in channel_groups.items():
         sorted_traces = sorted(traces, key=lambda t: t.stats.starttime)
 
         if verbose and len(sorted_traces) > 1:
             print(
-                f"\n  Merging {channel_id} ({len(sorted_traces)} fragments):")
+                f"\nMerging {channel_id} ({len(sorted_traces)} fragments):")
 
         for i, trace in enumerate(sorted_traces):
             if verbose and len(sorted_traces) > 1:
@@ -86,7 +86,7 @@ def merge_traces(st: Stream, verbose: bool = True) -> tuple[Stream, list[tuple[f
         for trace in st:
             duration_hours = trace.stats.npts / trace.stats.sampling_rate / 3600
             print(
-                f"    {trace.stats.station}.{trace.stats.channel}: {trace.stats.npts:,} samples ({duration_hours:.2f} hours)")
+                f"{trace.stats.station}.{trace.stats.channel}: {trace.stats.npts:,} samples ({duration_hours:.2f} hours)")
 
     return st, gaps
 
@@ -157,6 +157,7 @@ def load_file(filepath: str,
         raise ValueError(f"Channel lengths vary too much: {lengths}")
 
     min_length = min(lengths)
+
     # Makes sure all the data is up to only the min_length so they match in size
     data = np.array([d[:min_length] for d in data_list])
 

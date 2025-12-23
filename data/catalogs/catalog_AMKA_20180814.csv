@@ -1,0 +1,114 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-08-17T22:50:19.040Z,51.2518,-177.908,28.77,3,ml,,210,0.588,0.33,us,us2000hby3,2023-08-16T15:22:08.303Z,"112 km SW of Adak, Alaska",earthquake,7.5,21.4,,,reviewed,us,ak
+2018-08-17T18:30:40.150Z,51.3008,-177.4483,35,2.1,ml,,225,0.479,0.48,us,us2000h9zi,2023-08-16T15:20:04.091Z,"85 km SW of Adak, Alaska",earthquake,3.2,2,,,reviewed,us,ak
+2018-08-17T16:16:06.014Z,51.4177,-177.8864,61,2.2,ml,,,,0.3,ak,ak018aizouop,2023-08-16T15:19:21.549Z,"100 km WSW of Adak, Alaska",earthquake,,1.9,,,reviewed,ak,ak
+2018-08-17T15:08:21.890Z,51.2966,-178.0331,35,3.5,ml,,204,0.536,0.45,us,us2000h9zy,2023-08-16T15:18:32.399Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,5.9,2,,,reviewed,us,ak
+2018-08-17T15:05:10.450Z,51.7195,-178.4913,28.61,2.5,ml,,170,0.171,0.17,us,us2000h9zw,2023-08-16T15:18:30.604Z,"129 km W of Adak, Alaska",earthquake,12,11.4,,,reviewed,us,ak
+2018-08-17T14:42:50.980Z,51.2346,-177.7029,31.21,2.5,ml,,207,0.601,0.21,us,us1000gbm5,2023-08-16T15:18:25.370Z,"102 km SW of Adak, Alaska",earthquake,5.5,20.6,,,reviewed,us,ak
+2018-08-17T14:25:18.451Z,51.2109,-177.9795,25.6,2.3,ml,,,,0.53,ak,ak018aiyjxvp,2023-08-16T15:18:16.274Z,"118 km SW of Adak, Alaska",earthquake,,1.2,,,reviewed,ak,ak
+2018-08-17T14:15:56.180Z,51.3181,-177.8337,35,2.8,ml,,217,0.532,0.49,us,us2000h9zv,2023-08-16T15:18:08.431Z,"103 km SW of Adak, Alaska",earthquake,4,2,,,reviewed,us,ak
+2018-08-17T13:19:34.500Z,51.205,-177.6602,27.2,3.8,mb,,208,0.616,1.24,us,us2000hby1,2023-08-16T15:17:52.186Z,"102 km SW of Adak, Alaska",earthquake,5.6,5.1,0.079,42,reviewed,us,us
+2018-08-17T13:19:21.750Z,50.3438,-178.5337,10,3.9,mb,,242,1.719,0.76,us,us1000gg2v,2021-02-19T18:16:15.296Z,"216 km SW of Adak, Alaska",earthquake,5,2,0.075,46,reviewed,us,us
+2018-08-17T10:44:27.110Z,51.216,-177.706,35,2.7,ml,,226,0.619,0.52,us,us2000h9z5,2023-08-16T15:16:24.421Z,"104 km SW of Adak, Alaska",earthquake,2.6,2,,,reviewed,us,ak
+2018-08-17T10:26:26.926Z,51.3407,-178.0171,41.5,2,ml,,,,0.46,ak,ak018aiw6ftw,2023-08-16T15:16:13.893Z,"112 km WSW of Adak, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2018-08-17T09:00:46.640Z,51.2805,-177.8581,35,4,mb,,197,0.565,1.03,us,us2000h9z3,2023-08-16T15:15:18.259Z,"107 km SW of Adak, Alaska",earthquake,3.8,2,0.126,17,reviewed,us,us
+2018-08-17T08:36:22.183Z,51.2598,-177.8043,25.5,2,ml,,,,0.44,ak,ak018aiv1pey,2023-08-16T15:14:55.507Z,"106 km SW of Adak, Alaska",earthquake,,1.3,,,reviewed,ak,ak
+2018-08-17T07:28:58.531Z,51.3062,-178.0056,17.7,2.1,ml,,,,0.37,ak,ak018aiuemvx,2023-08-16T15:14:16.540Z,"114 km SW of Adak, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2018-08-17T07:20:48.507Z,51.2854,-177.8796,25.6,2,ml,,,,0.21,ak,ak018aiucwdu,2023-08-16T15:14:12.775Z,"108 km SW of Adak, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2018-08-17T06:58:47.070Z,52.3216,-174.2448,123.52,3,ml,,153,0.026,0.6,us,us1000gbln,2023-08-16T15:14:03.412Z,"14 km NNW of Atka, Alaska",earthquake,15.8,6.9,,,reviewed,us,ak
+2018-08-17T05:37:02.639Z,51.2175,-177.9997,25.6,2.1,ml,,,,0.2,ak,ak018ait9kt3,2023-08-16T15:13:22.201Z,"119 km SW of Adak, Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2018-08-17T04:35:30.460Z,51.2972,-178.1536,31.75,5.4,mww,,38,1.599,0.66,us,us1000gb5u,2023-08-16T15:12:56.927Z,"123 km WSW of Adak, Alaska",earthquake,5.7,3.4,0.045,47,reviewed,us,us
+2018-08-17T02:57:51.225Z,51.6798,179.9573,90,2.3,ml,,,,0.35,ak,ak018airlo2a,2023-08-16T15:11:59.064Z,"236 km W of Adak, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2018-08-17T02:56:07.011Z,51.2852,-178.0764,44.9,2.3,ml,,,,0.41,ak,ak018airlcxp,2023-08-16T15:11:57.192Z,"119 km SW of Adak, Alaska",earthquake,,3.6,,,reviewed,ak,ak
+2018-08-17T02:12:19.495Z,51.1745,-177.9596,21.7,2.1,ml,,,,0.53,ak,ak018airbye5,2023-08-16T15:11:33.935Z,"120 km SW of Adak, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2018-08-17T01:44:52.749Z,52.2343,-177.0187,197,2.4,ml,,,,0.43,ak,ak018aiqxg9m,2023-08-16T15:11:21.221Z,"47 km NNW of Adak, Alaska",earthquake,,1,,,reviewed,ak,ak
+2018-08-17T01:05:32.250Z,52.0365,179.9587,176.5,2.7,ml,,,,0.31,us,us2000h9yn,2023-08-16T15:10:57.729Z,"234 km W of Adak, Alaska",earthquake,12.1,9.4,,,reviewed,ak,ak
+2018-08-17T00:24:05.410Z,51.226,-177.9671,35,2.8,ml,,221,0.61,0.3,us,us1000gbji,2023-08-16T15:10:39.384Z,"117 km SW of Adak, Alaska",earthquake,2.3,2,,,reviewed,us,ak
+2018-08-16T23:17:31.205Z,51.2475,-177.9683,25.6,2,ml,,,,0.33,ak,ak018ahgbt34,2023-08-16T15:09:53.805Z,"115 km SW of Adak, Alaska",earthquake,,4.6,,,reviewed,ak,ak
+2018-08-16T20:50:30.090Z,50.5132,-174.2931,10,3.3,ml,,233,1.767,0.41,us,us1000gh4h,2023-08-16T15:09:05.532Z,"187 km S of Atka, Alaska",earthquake,5.5,2,,,reviewed,us,ak
+2018-08-16T18:32:44.234Z,51.2762,-177.7077,45,2.3,ml,,,,0.53,ak,ak018ahdfvt3,2023-08-16T15:07:57.232Z,"99 km SW of Adak, Alaska",earthquake,,4.3,,,reviewed,ak,ak
+2018-08-16T16:57:24.690Z,51.0682,-178.0227,35,2.8,ml,,217,0.758,0.53,us,us1000gh4a,2023-08-16T15:06:52.622Z,"131 km SW of Adak, Alaska",earthquake,4.3,2,,,reviewed,us,ak
+2018-08-16T16:52:09.660Z,50.3113,179.7986,10,3.1,ml,,279,1.113,1.28,us,us1000gh49,2023-08-16T15:06:43.682Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,9.4,2,,,reviewed,us,ak
+2018-08-16T14:26:27.490Z,51.2903,-177.7253,35,2.8,ml,,221,0.561,0.46,us,us1000gh43,2023-08-16T15:04:26.380Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,5.3,2,,,reviewed,us,ak
+2018-08-16T14:12:13.115Z,51.1791,-179.8509,13.2,2.1,ml,,,,0.45,ak,ak018ahaxsnz,2023-08-16T15:04:19.249Z,"236 km WSW of Adak, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2018-08-16T13:28:00.170Z,51.2986,-177.7716,39.28,4.5,mb,,187,0.561,0.94,us,us1000gage,2023-08-16T15:03:56.811Z,"101 km SW of Adak, Alaska",earthquake,6.2,7,0.049,121,reviewed,us,us
+2018-08-16T13:04:20.430Z,51.3434,-177.8196,44.7,2,ml,,,,0.27,ak,ak018ahaanwb,2023-08-16T15:03:52.786Z,"101 km SW of Adak, Alaska",earthquake,,2.2,,,reviewed,ak,ak
+2018-08-16T12:39:48.547Z,51.2298,-177.9245,32.6,2.4,ml,,,,0.29,ak,ak018ah9wsiu,2023-08-16T15:03:30.788Z,"114 km SW of Adak, Alaska",earthquake,,9.3,,,reviewed,ak,ak
+2018-08-16T12:04:05.202Z,51.3281,-174.9367,49.3,2.2,ml,,,,0.83,ak,ak018ah9p748,2023-08-16T15:03:03.875Z,"109 km SSW of Atka, Alaska",earthquake,,5.3,,,reviewed,ak,ak
+2018-08-16T11:51:23.610Z,51.1661,-177.8947,35,2.5,ml,,215,0.674,0.45,us,us1000gh3w,2023-08-16T15:02:53.126Z,"117 km SW of Adak, Alaska",earthquake,3.2,2,,,reviewed,us,ak
+2018-08-16T11:12:11.610Z,51.426,-178.1009,49.76,3.9,mb,,198,0.41,0.79,us,us1000gaed,2023-08-16T15:02:26.251Z,"113 km WSW of Adak, Alaska",earthquake,6.9,10.3,0.104,24,reviewed,us,us
+2018-08-16T09:35:41.383Z,51.1865,-177.8737,38.7,2.2,ml,,,,0.34,ak,ak018ah83mai,2023-08-16T15:01:26.263Z,"115 km SW of Adak, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2018-08-16T07:33:47.210Z,51.1805,-177.9251,33.26,2.6,ml,,214,0.658,0.52,us,us1000gh3q,2023-08-16T14:59:53.384Z,"118 km SW of Adak, Alaska",earthquake,3.4,11.4,,,reviewed,us,ak
+2018-08-16T07:26:34.678Z,51.1475,-177.9466,37.2,2,ml,,,,0.59,ak,ak018ah6ut4b,2023-08-16T14:59:42.511Z,"121 km SW of Adak, Alaska",earthquake,,7.3,,,reviewed,ak,ak
+2018-08-16T06:49:55.289Z,51.224,-177.9671,25.6,2,ml,,,,0.32,ak,ak018ah6ecko,2023-08-16T14:58:49.008Z,"117 km SW of Adak, Alaska",earthquake,,3,,,reviewed,ak,ak
+2018-08-16T06:23:06.319Z,51.1411,-177.8581,25.5,2.1,ml,,,,0.64,ak,ak018ah68o6f,2023-08-16T14:58:21.616Z,"117 km SW of Adak, Alaska",earthquake,,3.6,,,reviewed,ak,ak
+2018-08-16T05:57:21.828Z,51.2265,-177.7527,27,2.4,ml,,,,0.34,ak,ak018ah5uk46,2023-08-16T14:58:12.896Z,"105 km SW of Adak, Alaska",earthquake,,14.5,,,reviewed,ak,ak
+2018-08-16T05:46:11.550Z,51.2547,-177.9866,43.02,3.5,ml,,206,0.57,0.36,us,us1000gh3h,2023-08-16T14:58:05.279Z,"116 km SW of Adak, Alaska",earthquake,8.2,28.2,,,reviewed,us,ak
+2018-08-16T04:43:27.730Z,51.1911,-177.8639,43.7,3,ml,,,,0.32,us,us1000gh3g,2023-08-16T14:57:21.017Z,"114 km SW of Adak, Alaska",earthquake,4.7,10,,,reviewed,ak,ak
+2018-08-16T04:08:51.299Z,51.4466,-176.2805,21.4,2.1,ml,,,,0.4,ak,ak018ah4yop5,2023-08-16T14:57:00.402Z,"53 km SSE of Adak, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2018-08-16T03:45:42.420Z,51.2137,-177.7197,29.17,2.8,ml,,226,0.625,0.38,us,us1000gh3e,2023-08-16T14:56:43.763Z,"105 km SW of Adak, Alaska",earthquake,6.1,10.4,,,reviewed,us,ak
+2018-08-16T03:33:25.719Z,51.2419,-177.9112,44.9,2,ml,,,,0.32,ak,ak018ah4ik0r,2023-08-16T14:56:36.935Z,"113 km SW of Adak, Alaska",earthquake,,3.9,,,reviewed,ak,ak
+2018-08-16T03:21:14.060Z,51.1705,-177.9149,30.1,3,ml,,,,0.43,us,us1000gh3c,2023-08-16T14:56:28.982Z,"118 km SW of Adak, Alaska",earthquake,4,7.8,,,reviewed,ak,ak
+2018-08-16T02:51:12.605Z,51.0564,-179.2484,8.1,2.1,ml,,,,0.67,ak,ak018ah40yak,2023-08-16T14:56:01.909Z,"203 km WSW of Adak, Alaska",earthquake,,1.3,,,reviewed,ak,ak
+2018-08-16T02:37:48.792Z,51.228,-177.8745,38.4,2.1,ml,,,,0.43,ak,ak018ah3y127,2023-08-16T14:55:53.868Z,"112 km SW of Adak, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2018-08-16T02:26:55.184Z,51.2271,-177.9781,27.6,2.1,ml,,,,0.46,ak,ak018ah3vooe,2023-08-16T14:55:39.760Z,"117 km SW of Adak, Alaska",earthquake,,16,,,reviewed,ak,ak
+2018-08-16T01:59:26.120Z,51.2615,-177.6957,39.2,2.6,ml,,,,0.63,us,us1000gh35,2023-08-16T14:55:06.524Z,"100 km SW of Adak, Alaska",earthquake,5.3,10.1,,,reviewed,ak,ak
+2018-08-16T01:50:33.760Z,51.8063333,-178.7048333,12.2,2.14,ml,4,299,0.04727,0.26,av,av61761471,2019-03-07T02:21:58.050Z,"142 km W of Adak, Alaska",earthquake,2.66,1.83,0.527,5,reviewed,av,av
+2018-08-16T01:42:20.030Z,52.4643,-174.5841,145.2,2.6,ml,,,,0.6,us,us1000gh34,2023-08-16T14:54:55.658Z,"39 km NW of Atka, Alaska",earthquake,22.1,8.9,,,reviewed,ak,ak
+2018-08-16T01:41:08.009Z,51.3045,-177.7488,48.7,2.1,ml,,,,0.34,ak,ak018ah3dd68,2023-08-16T14:54:53.983Z,"99 km SW of Adak, Alaska",earthquake,,1.7,,,reviewed,ak,ak
+2018-08-16T01:14:37.836Z,51.1519,-177.7517,10.4,2.2,ml,,,,0.49,ak,ak018ah37n53,2023-08-16T14:54:16.936Z,"111 km SW of Adak, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2018-08-16T01:00:49.690Z,51.2975,-177.8776,48.7,2.5,ml,,,,0.71,us,us1000gh31,2023-08-16T14:54:04.399Z,"107 km SW of Adak, Alaska",earthquake,5.4,10,,,reviewed,ak,ak
+2018-08-16T00:58:10.583Z,51.2525,-177.9424,34.7,2.2,ml,,,,0.38,ak,ak018ah2vkxu,2023-08-16T14:54:00.698Z,"114 km SW of Adak, Alaska",earthquake,,3.6,,,reviewed,ak,ak
+2018-08-16T00:20:57.701Z,51.2677,-177.9218,49.2,2.1,ml,,,,0.23,ak,ak018ah2njd6,2023-08-16T14:53:32.104Z,"111 km SW of Adak, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2018-08-16T00:12:10.420Z,51.8666,178.4103,143.38,2.7,ml,,316,0.74,0.32,us,us1000gh2z,2023-08-16T14:53:28.474Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,30.6,31.8,,,reviewed,us,ak
+2018-08-16T00:06:01.873Z,51.2216,178.602,5.7,2.4,ml,,,,0.62,ak,ak018ah2kf17,2023-08-16T14:53:16.214Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2018-08-15T23:56:37.580Z,51.2602,-178.024,31.56,3,ml,,209,0.574,0.33,us,us2000hawq,2023-08-16T14:53:06.602Z,"118 km SW of Adak, Alaska",earthquake,3.2,14.1,,,reviewed,us,ak
+2018-08-15T23:52:05.840Z,51.1992,-177.8711,29.92,3.8,mb,,212,0.617,0.63,us,us2000hawp,2023-08-16T14:52:57.887Z,"114 km SW of Adak, Alaska",earthquake,4.2,12.8,0.146,12,reviewed,us,us
+2018-08-15T23:47:28.177Z,51.4508,-175.7559,18.8,2.4,ml,,,,0.58,ak,ak018afsyvu9,2023-08-16T14:52:44.331Z,"76 km SE of Adak, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2018-08-15T23:26:22.260Z,51.186,-177.7733,27.6,2.1,ml,,,,0.44,ak,ak018afsudci,2023-08-16T14:52:13.736Z,"110 km SW of Adak, Alaska",earthquake,,17.1,,,reviewed,ak,ak
+2018-08-15T23:11:46.274Z,51.2145,-177.8497,45.1,2.3,ml,,,,0.39,ak,ak018afsr7gj,2023-08-16T14:52:05.509Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,3.3,,,reviewed,ak,ak
+2018-08-15T22:47:15.240Z,51.1937,-177.8429,51.4,2.1,ml,,,,0.42,ak,ak018afsdf8k,2023-08-16T14:51:36.354Z,"112 km SW of Adak, Alaska",earthquake,,2.6,,,reviewed,ak,ak
+2018-08-15T22:44:22.050Z,51.1992,-177.6438,35,2.6,ml,,228,0.617,0.34,us,us2000haw8,2023-08-16T14:51:32.472Z,"102 km SW of Adak, Alaska",earthquake,4.9,2,,,reviewed,us,ak
+2018-08-15T22:42:17.840Z,51.2273,-177.9053,38.4,2.2,ml,,,,0.32,ak,ak018afsccuw,2023-08-16T14:51:30.515Z,"113 km SW of Adak, Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2018-08-15T22:38:41.620Z,51.1875,-177.8437,25.1,2.3,ml,,,,0.44,ak,ak018afsbjtu,2023-08-16T14:51:26.652Z,"113 km SW of Adak, Alaska",earthquake,,1.7,,,reviewed,ak,ak
+2018-08-15T22:35:16.220Z,51.1926,-177.7938,35,2.8,ml,,227,0.66,0.24,us,us2000haw7,2023-08-16T14:51:18.239Z,"110 km SW of Adak, Alaska",earthquake,4.9,2,,,reviewed,us,ak
+2018-08-15T22:34:27.640Z,51.2085,-177.6781,35,2.7,ml,,226,0.612,0.36,us,us2000hawh,2023-08-16T14:51:16.437Z,"103 km SW of Adak, Alaska",earthquake,4.9,2,,,reviewed,us,ak
+2018-08-15T22:29:43.954Z,51.2215,-177.8548,42.8,2.1,ml,,,,0.35,ak,ak018afs9mkb,2023-08-16T14:51:12.727Z,"111 km SW of Adak, Alaska",earthquake,,2.1,,,reviewed,ak,ak
+2018-08-15T22:28:13.470Z,51.2443,-177.7884,20,2.1,ml,,,,0.56,ak,ak018afs9chv,2023-08-16T14:51:10.851Z,"106 km SW of Adak, Alaska",earthquake,,0,,,reviewed,ak,ak
+2018-08-15T22:23:56.838Z,51.3341,-177.7372,32.6,2.3,ml,,,,0.44,ak,ak018afs8d9f,2023-08-16T14:51:07.386Z,"97 km SW of Adak, Alaska",earthquake,,10.2,,,reviewed,ak,ak
+2018-08-15T22:23:14.030Z,51.1346,-177.9577,22.73,2.8,ml,,227,0.702,0.34,us,us2000hawg,2023-08-16T14:51:00.529Z,"123 km SW of Adak, Alaska",earthquake,4.3,11.8,,,reviewed,us,ak
+2018-08-15T22:22:14.774Z,51.4732,-177.902,68.4,2.1,ml,,,,0.34,ak,ak018afs82at,2023-08-16T14:50:58.594Z,"98 km WSW of Adak, Alaska",earthquake,,4.4,,,reviewed,ak,ak
+2018-08-15T22:16:07.970Z,51.3358,-177.9373,35,4.3,mb,,187,0.485,0.97,us,us1000ga1f,2023-08-16T14:50:53.141Z,"108 km SW of Adak, Alaska",earthquake,5.3,2,0.069,60,reviewed,us,us
+2018-08-15T22:12:09.980Z,51.1583,-177.9633,35,2.9,ml,,226,0.678,0.14,us,us2000haw1,2023-08-16T14:50:51.447Z,"121 km SW of Adak, Alaska",earthquake,3.5,2,,,reviewed,us,ak
+2018-08-15T22:09:51.370Z,51.058,-177.8753,31.2,4.2,mb,,209,0.783,0.67,us,us1000geky,2023-08-16T14:50:47.700Z,"125 km SW of Adak, Alaska",earthquake,3.8,6.9,0.137,15,reviewed,us,us
+2018-08-15T21:56:56.310Z,51.4234,-178.0262,33.93,6.5,mww,,22,0.576,0.72,us,us1000ga0z,2023-08-16T14:50:42.315Z,"108 km WSW of Adak, Alaska",earthquake,4.7,2.5,0.033,88,reviewed,us,us
+2018-08-15T21:19:28.702Z,52.0469,-175.3646,83.9,2.3,ml,,,,0.41,ak,ak018afrm0me,2023-08-16T14:50:21.409Z,"81 km WSW of Atka, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2018-08-15T21:18:02.490Z,51.2906,-178.1546,35,2.8,ml,,207,0.548,0.47,us,us2000havv,2023-08-16T14:50:19.811Z,"123 km WSW of Adak, Alaska",earthquake,3.3,2,,,reviewed,us,ak
+2018-08-15T16:58:58.370Z,52.1313,-179.7243,186.81,2.5,ml,,178,0.422,0.33,us,us2000hawd,2023-08-16T14:47:49.097Z,"214 km W of Adak, Alaska",earthquake,10.2,8,,,reviewed,us,ak
+2018-08-15T12:38:43.145Z,51.7535,178.685,88.5,2.2,ml,,,,0.49,ak,ak018afmd7wa,2023-08-16T14:44:38.580Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2018-08-15T12:24:18.496Z,51.5377,-176.1494,20.5,2.2,ml,,,,0.42,ak,ak018afma5yx,2023-08-16T14:44:22.251Z,"50 km SE of Adak, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2018-08-15T11:48:46.613Z,51.9018,179.5538,149.5,2.1,ml,,,,0.36,ak,ak018afltxpx,2023-08-16T14:44:04.267Z,"262 km W of Adak, Alaska",earthquake,,1.3,,,reviewed,ak,ak
+2018-08-15T05:07:46.310Z,51.8213,178.5128,92.4,2.5,ml,,,,0.48,us,us2000hauj,2023-08-16T14:39:31.748Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,14.5,10,,,reviewed,ak,ak
+2018-08-14T22:18:52.324Z,52.2517,-176.4799,204.7,2.2,ml,,,,0.92,ak,ak018ae4nxu8,2023-08-16T14:34:14.520Z,"43 km NNE of Adak, Alaska",earthquake,,1.3,,,reviewed,ak,ak
+2018-08-14T21:19:16.440Z,52.1838,-174.1978,10,3.3,ml,,185,0.108,0.63,us,us1000g9ad,2023-08-16T14:33:44.625Z,"1 km S of Atka, Alaska",earthquake,3.4,2,,,reviewed,us,ak
+2018-08-14T21:01:17.126Z,51.1387,178.3217,38.7,2.3,ml,,,,0.12,ak,ak018ae3yscg,2023-08-16T14:33:41.002Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,4.3,,,reviewed,ak,ak
+2018-08-14T21:00:25.550Z,52.0546,-174.1176,6.52,4.1,mb,,179,0.22,0.92,us,us1000g983,2023-08-16T14:33:39.234Z,"16 km SSE of Atka, Alaska",earthquake,4.3,5.6,0.084,39,reviewed,us,us
+2018-08-14T19:06:58.635Z,51.855,178.3439,122.2,2.2,ml,,,,0.35,ak,ak018ae2t2x3,2023-08-16T14:32:25.435Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2018-08-14T10:07:08.550Z,51.5777,-176.692,35,2.8,ml,,201,0.305,0.45,us,us2000h6pf,2023-08-16T14:27:22.128Z,"33 km S of Adak, Alaska",earthquake,4.8,2,,,reviewed,us,ak
+2018-08-14T09:45:15.914Z,51.7274,177.5451,65.9,2.5,ml,,,,0.25,ak,ak018adx30hz,2023-08-16T14:26:58.482Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2018-08-14T06:29:21.312Z,51.6117,-178.4882,13.2,2.1,ml,,,,0.33,ak,ak018adv7an7,2023-08-16T14:24:26.594Z,"131 km WSW of Adak, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2018-08-14T02:05:38.597Z,51.5574,179.05,6.7,2.3,ml,,,,0.56,ak,ak018adsogdf,2023-08-16T14:20:30.102Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2018-08-13T22:44:58.303Z,51.5284,-177.8652,23.3,2.2,ml,,,,0.1,ak,ak018acha6fa,2023-08-16T14:17:49.459Z,"93 km WSW of Adak, Alaska",earthquake,,1.2,,,reviewed,ak,ak
+2018-08-13T22:44:44.080Z,51.0915,179.5514,47.15,4.1,mb,,183,0.326,1.08,us,us1000gbh9,2023-08-16T14:17:47.576Z,"278 km WSW of Adak, Alaska",earthquake,9.7,8.4,0.069,57,reviewed,us,us
+2018-08-13T15:40:20.870Z,50.9075,-178.4012,10,4,mb,,232,0.885,0.61,us,us1000gbh1,2023-08-16T14:08:12.903Z,"163 km SW of Adak, Alaska",earthquake,2.8,2,0.098,28,reviewed,us,us
+2018-08-13T15:06:09.840Z,51.5782,-177.0659,71.5,4.2,mb,,,,0.68,us,us1000gbgz,2023-08-16T14:07:37.232Z,"44 km SW of Adak, Alaska",earthquake,6.2,5.9,0.264,4,reviewed,ak,us
+2018-08-13T14:23:17.395Z,51.4091,-177.4862,40.6,2,ml,,,,0.55,ak,ak018acce4e3,2023-08-16T14:06:54.817Z,"78 km SW of Adak, Alaska",earthquake,,2.9,,,reviewed,ak,ak
+2018-08-13T11:19:40.900Z,52.5908,-174.7085,191.89,2.6,ml,,236,0.41,0.39,us,us2000heba,2023-08-16T14:03:24.944Z,"55 km NW of Atka, Alaska",earthquake,32.8,19.6,,,reviewed,us,ak
+2018-08-13T11:08:57.160Z,49.9253,-178.33,35.43,2.8,ml,,259,1.859,0.48,us,us2000heb7,2023-08-16T14:03:07.237Z,"247 km SSW of Adak, Alaska",earthquake,8.3,13,,,reviewed,us,ak
+2018-08-13T07:59:53.906Z,51.5119,-175.2438,30.8,2.4,ml,,,,0.65,ak,ak018ac8fvr2,2023-08-16T13:59:25.451Z,"104 km ESE of Adak, Alaska",earthquake,,26.5,,,reviewed,ak,ak
+2018-08-13T05:16:24.234Z,51.2267,-178.5389,60.5,2,ml,,,,0.72,ak,ak018ac6zqgn,2023-08-16T13:56:14.460Z,"150 km WSW of Adak, Alaska",earthquake,,17.7,,,reviewed,ak,ak
+2018-08-13T03:23:04.020Z,52.0218,-176.9612,139.31,2.5,ml,,183,0.147,0.43,us,us2000he7c,2023-08-16T13:52:55.268Z,"27 km NW of Adak, Alaska",earthquake,14.8,8.3,,,reviewed,us,ak
+2018-08-13T01:40:32.901Z,51.4266,-176.3517,22.8,2.1,ml,,,,0.27,ak,ak018ac4r5wa,2023-08-16T13:49:54.751Z,"53 km SSE of Adak, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2018-08-12T23:30:34.020Z,51.6567,-178.4372,18.47,3.3,ml,,182,0.23,0.39,us,us1000gcc3,2023-08-16T13:46:13.288Z,"126 km WSW of Adak, Alaska",earthquake,3.5,5.9,,,reviewed,us,ak
+2018-08-12T22:59:02.739Z,51.382,-173.8415,25.6,2.1,ml,,,,0.31,ak,ak018aattxdt,2023-08-16T13:45:51.844Z,"93 km SSE of Atka, Alaska",earthquake,,11.8,,,reviewed,ak,ak
+2018-08-12T21:09:50.019Z,51.1303,178.9937,19.1,2,ml,,,,0.23,ak,ak018aasxvmh,2023-08-16T13:43:27.937Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.5,,,reviewed,ak,ak
