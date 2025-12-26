@@ -352,4 +352,4 @@ python visualize.py data/processed/MDM_20231015/
 
 ## License
 
-MIT License
+This project is under a Restrictive License. The code is publicly visible for educational purposes only. Any use, including commercial, research, or personal projects, requires explicit written permission from the authors. See [LICENSE](LICENSE) for details.
