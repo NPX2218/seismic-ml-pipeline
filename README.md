@@ -8,7 +8,6 @@ A signal processing pipeline for extracting machine learning features from seism
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python 3.10+">
-  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
 </p>
 
 ## Description
